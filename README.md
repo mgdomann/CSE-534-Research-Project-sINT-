@@ -1,7 +1,7 @@
 # CSE-534-Research-Project-sINT-
 Repository for the 534 Research Project
 
-Includes a notebook (experiment.jyptr) that is a slight modification P4_BMv2_Lab example Lab1 
+Includes a notebook (experiment.ipynb) that is a slight modification P4_BMv2_Lab example Lab1 
 
 Includes main.p4 which is from the Lab1 example
 
